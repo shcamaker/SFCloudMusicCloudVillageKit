@@ -1,0 +1,35 @@
+{
+  "name": "SFCloudMusicCloudVillageKit",
+  "version": "0.1.0",
+  "summary": "SFCloudMusicCloudVillageKit.",
+  "description": "A short description of SFCloudMusicCloudVillageKit",
+  "homepage": "https://github.com/shcamaker/SFCloudMusicCloudVillageKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shcamaker": "alex.shen@wesoft.com"
+  },
+  "source": {
+    "git": "https://github.com/shcamaker/SFCloudMusicCloudVillageKit.git",
+    "tag": "0.1.0"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SFCloudMusicCloudVillageKit/Classes/**/*",
+  "dependencies": {
+    "RxSwift": [
+      "~> 5"
+    ],
+    "RxCocoa": [
+      "~> 5"
+    ],
+    "Action": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
