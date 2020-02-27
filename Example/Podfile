@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SFCloudMusicCloudVillageKit_Example' do
+  pod 'SFCloudMusicCloudVillageKit', :path => '../'
+
+  target 'SFCloudMusicCloudVillageKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
